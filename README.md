@@ -6,7 +6,7 @@ Whatsapp Web üzerinden sohbetlerinize sayısız spam mesaj göndermenizi sağla
 
 # Kurulum
 
-[Chrome Web Store](**) üzerinden indirebilirsiniz.
+[Chrome Web Store](https://chrome.google.com/webstore/detail/whatsapp-spammer/eojeaalkpkmppoegkdlciopihpnmpcil) üzerinden indirebilirsiniz.
 
 # Güncelleme Notları
 
